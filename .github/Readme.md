@@ -1,7 +1,7 @@
 # THIS IS A LAZY FORK AND IS NOT SUPPORTED BY THE [ORIGNAL AUTHOR](https://github.com/enzo1982) THIS IS ONLY FOR ACCESS TO A PRE-BUILT VERSION
-This is a fork of the [fork](https://github.com/enzo1982/mp4v2) of [mp4v2](https://code.google.com/archive/p/mp4v2/).
+This is a fork of the [fork](https://github.com/enzo1982/mp4v2) of the (abandoned) [mp4v2](https://code.google.com/archive/p/mp4v2/) project.
 
-I was following the guide for installing [m4b-tool](https://github.com/sandreas/m4b-tool) and needed a Windows build of the custom version of [mp4v2](https://github.com/sandreas/mp4v2) (now deprecated) and was redirected towards [*new* MP4v2 project](https://github.com/enzo1982/mp4v2) (seemingly abandoned) and couldn't be bothered to install the necessary build tools. So I got github to build it for me. O_o
+I was following the guide for installing [m4b-tool](https://github.com/sandreas/m4b-tool) and needed a Windows build of the custom version of [mp4v2](https://github.com/sandreas/mp4v2) (now deprecated) and was redirected towards the [*new* MP4v2 project](https://github.com/enzo1982/mp4v2) (seemingly abandoned) and couldn't be bothered to install the necessary build tools. So I got github to build it for me. O_o
 
 Below is the original readme for the [*new* MP4v2 project](https://github.com/enzo1982/mp4v2) (which too appears to have been abandoned).
 ##
@@ -43,6 +43,7 @@ MP4v2 has no special dependencies other than a working C++ compiler and build en
 Please use the *[Issues](https://github.com/enzo1982/mp4v2/issues)* area to report bugs and other issues or make feature requests. For questions and general discussion, please use the *[Discussions](https://github.com/enzo1982/mp4v2/discussions)* area.
 
 If you need to contact the maintainer, please send an email to [support@mp4v2.org](mailto:support@mp4v2.org).
+
 
 
 
